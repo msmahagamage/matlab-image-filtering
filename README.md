@@ -1,4 +1,3 @@
-# matlab-image-filtering
 # MATLAB Image Filtering Toolkit
 
 A simple and efficient MATLAB function for applying 2D convolution kernels (filters) to grayscale images, with built-in options for common post-processing techniques like contrast stretching and histogram equalization.
